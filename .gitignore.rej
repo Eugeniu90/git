@@ -1,0 +1,9 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -0,6 +0,7 @@
+ # Compiled class file
+ *.class
+ 
++# Log file
+ *.log
+ 
+ # BlueJ files
